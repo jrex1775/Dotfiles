@@ -1,2 +1,3 @@
 # Dotfiles
-Dotfiles and Confis for replicaiton
+Dotfiles and Configs for replicaiton
+Trying to setup Git
